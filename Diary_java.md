@@ -1,3 +1,10 @@
+# Sechster Tag 
+(23.02.2020) <br>
+Heute habe ich mich eingehend mit den Methoden auseinandergesetzt. Nach überlegen, mit Kollegen diskutieren und Youtube-Erklärungsvideos schaun bin ich im Verständnis doch etwas weiter gekommen. Was ich noch nicht wirklich intuitiv verstehe ist, wenn einen Methode sich selber aufruft und z.B.: ein Array in einen linken und einen rechten Teil splittet, und dann das selbe für den linken Teil noch einmal macht, wie kann es das geben, dass da nicht die selbe Variable für verschiedene Werte verwendet wird und dadurch Daten verloren gehen. Und selbst wenn das geht (dass es geht weiß ich, das hab ich in Beispielen und youtube gesehen), "wann" kommt dann der rechte Teil dran? In einem "normalen" code kann man verstehen, wie der Computer einfach Zeile für Zeile durchgehen und die Logik folgt einer Reihenfolge. Bei Schleifen werden einige Zeilen einfach, sobald die Schleife erreicht wird, eine bestimmte Anzahl wiederholt und dann geht es im code nach der Schleife weiter. <br>
+Aber Methoden machen mir da einen Knopf in meine Logik. Vielleich muss ich mal ein funktionierendes Programm deBugen und Zeile für Zeile mitschaun (und vl sogar mit schreiben) um wirklich zu Verständnis zu kommen. - Ein un-intuitiver Zugang: Etwas, was man nicht verstanden hat, zu schreiben, das dann funktioniert, und dann mit der Lupe zu untersuchen warum es funktioniert. 
+
+
+
 # Fünfter Tag
 
 Heute haben wir Vormittag den ersten Test geschrieben. Ich bin ca eine Stund vor Abgabezeitpunkt (der um 12:00 Uhr war) fertig geworden. Ich habe das Gefühl, dass man bei Java mit Verständniss sehr weit kommt. Die genaue Syntax kann man sich schon wo zusammenklauben. Ich hoffe, dass das mit der Zeit einfacher wird. Vielleicht mache ich mir ein Template-Dokument, wo ich sachen wie Scanner und so abspeicher, damit ich immer schnell darauf zugriff habe. 
