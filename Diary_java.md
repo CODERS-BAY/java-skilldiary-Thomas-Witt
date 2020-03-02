@@ -1,3 +1,11 @@
+# 02.03.
+
+Heute habe ich den devide-and-conquer fertig gemacht. Das viele Durchdenken letztes mal und das Reflektieren zu Hause hat sich ausgezahlt, denn ich hatte heute das Gefühl, dass ich die Methoden schon wesentlich besser verstanden habe. 
+Dann haben wir heute gemeinsam mein "game of life" aufgesplittet und in Methoden unterteilt. Dadurch hat sich zwar die Anzahl an Zeilen in IntelliJ erhöht, aber es ist wesentlich besser lesbar geworden. Und man könnte auf die Methoden öfter zugreifen (was wir in einem Fall sogar gemacht haben: beim "kopieren" von dem prmary auf secondary array).
+Zum Schluss habe ich noch den Merge-Sort gemacht. Es hat zwischendurch etwas gehapert, aber ich bin nie wirklich stecken geblieben. Pia hat mir einige Male wirklich gut weiter geholfen, und ich habe es wieder Punktgenau zum Schluss fertig bekommen und gepusht.
+
+
+
 # Sechster Tag 
 (23.02.2020) <br>
 Heute habe ich mich eingehend mit den Methoden auseinandergesetzt. Nach überlegen, mit Kollegen diskutieren und Youtube-Erklärungsvideos schaun bin ich im Verständnis doch etwas weiter gekommen. Was ich noch nicht wirklich intuitiv verstehe ist, wenn einen Methode sich selber aufruft und z.B.: ein Array in einen linken und einen rechten Teil splittet, und dann das selbe für den linken Teil noch einmal macht, wie kann es das geben, dass da nicht die selbe Variable für verschiedene Werte verwendet wird und dadurch Daten verloren gehen. Und selbst wenn das geht (dass es geht weiß ich, das hab ich in Beispielen und youtube gesehen), "wann" kommt dann der rechte Teil dran? In einem "normalen" code kann man verstehen, wie der Computer einfach Zeile für Zeile durchgehen und die Logik folgt einer Reihenfolge. Bei Schleifen werden einige Zeilen einfach, sobald die Schleife erreicht wird, eine bestimmte Anzahl wiederholt und dann geht es im code nach der Schleife weiter. <br>
