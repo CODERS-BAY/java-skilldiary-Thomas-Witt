@@ -1,3 +1,7 @@
+# 09.03
+
+Hirn.exe hat einen Fehler verursacht und musste geschlossen werden!
+
 # 06.03.
 
 Das aufsplitten eines Codes in Methoden wird mit dem Tastenkürzel strg+alt+m sehr einfach. Außerdem habe ich heute wieder versucht meinen Kollegen ein wenig weiter zu helfen, und habe wiedereinmal festgestellt, dass ich das Nachhilfe geben sehr mag. Zum einen freue ich mich, wenn ich anderen helfen kann. Und zum anderen ist es eine tolle Überprüfung für mich selber. Wenn ich etwas erklären kann habe ich es wirklich verstanden. Und wenn ich auf eine Frage keine Antwort weiß, weiß ich wo ich weitermachen muss. 
