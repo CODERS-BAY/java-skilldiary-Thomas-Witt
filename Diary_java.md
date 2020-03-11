@@ -1,3 +1,7 @@
+# 11.03.
+
+Heute haben wir wieder mit Objektorientierter Programmierung gearbeitet (also das, was ich am Montag versäumt habe). Wir haben ein Beispiel eines Fuhrparks gebastelt, dass auch sehr gut zu verstehen war. Danach haben wir an der Aufgabe von Pia über die Personenverwaltung weitergemacht. Es ist bei weitem noch nicht alles klar, aber es geht schon um Welten besser als am Montag. Und die Nachrichten über den Corona-Vierus machen anscheinend auch vor der Codersbay nicht halt. 
+
 # 09.03
 
 Hirn.exe hat einen Fehler verursacht und musste geschlossen werden!
